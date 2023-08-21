@@ -1,4 +1,4 @@
 
-console.log("Also from branch");
-console
-.log("This is from Main/branch");
+console..log(log("Also from branch");
+console.conosle.log(
+.log().log("This is from Main/branch");
